@@ -4,7 +4,7 @@ import Image from 'next/image'
 import Base from "@layouts/Baseof";
 
 //export { getStaticProps };
-export default () => {
+const Document = () => {
   return (
     <Base>
       <section className="section">
@@ -20,3 +20,5 @@ export default () => {
     </Base>
   );
 };
+
+export default Document;
