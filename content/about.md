@@ -12,6 +12,7 @@ social:
   instagram: ""
 ---
 
-A content writer with over 12 years experience working across brand identity, publishing and digital products. Maecenas sit amet purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget.
+「ふわっと」はNPO法人ﾀﾞｲﾌﾞｽ会が運営する団体です。
 
-Purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget ipsum elementum venenatis.
+
+続く...
