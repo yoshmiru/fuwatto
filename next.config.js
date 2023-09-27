@@ -3,8 +3,7 @@
  */
 
 const nextConfig = {
-  output: 'export',
-  images: { unoptimized: true },
+  output: 'standalone',
 };
 
 module.exports = nextConfig;
