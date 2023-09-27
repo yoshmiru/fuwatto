@@ -100,6 +100,7 @@ const Header = () => {
               </React.Fragment>
             ))}
           </ul>
+          {/*
           <div className="order-1 ml-auto md:order-2 md:ml-0">
             <div
               className="cursor-pointer p-2 text-xl text-dark hover:text-primary"
@@ -115,6 +116,7 @@ const Header = () => {
             searchModal={searchModal}
             setSearchModal={setSearchModal}
           />
+          */}
         </nav>
       </header>
     </>
