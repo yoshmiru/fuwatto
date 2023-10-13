@@ -16,6 +16,7 @@ const Document = () => {
             alt="ふわっとロゴ"
           />
         </div>
+        {/* 取り組み */}
       </section>
     </Base>
   );
