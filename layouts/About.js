@@ -25,7 +25,7 @@ const About = ({ data }) => {
         {markdownify(title, "h1", "h2")}
         <Social source={social} className="social-icons-simple my-8" />
 
-        <div className="content">
+        <div className="content text-left">
           <MDXRemote {...mdxContent} components={shortcodes} />
         </div>
       </div>

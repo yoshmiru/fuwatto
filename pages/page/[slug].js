@@ -1,3 +1,5 @@
+import Image from 'next/image'
+
 import Pagination from "@components/Pagination";
 import config from "@config/config.json";
 import Base from "@layouts/Baseof";

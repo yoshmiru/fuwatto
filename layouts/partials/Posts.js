@@ -24,6 +24,7 @@ const Posts = ({ posts, authors, className }) => {
             />
           )}
           <ul className="mt-4 mb-4 flex flex-wrap items-center space-x-3 text-text">
+            {/*
             <li>
               {authors
                 .filter((author) =>
@@ -50,6 +51,8 @@ const Posts = ({ posts, authors, className }) => {
                   </Link>
                 ))}
             </li>
+            */}
+
             <li>{dateFormat(post.frontmatter.date)}</li>
             <li>
               <ul>

@@ -13,8 +13,8 @@ const Category = ({ category, posts, authors }) => {
       <div className="section">
         <div className="container">
           <h1 className="h2 mb-8 text-center">
-            Showing posts from <span className="text-primary">{category}</span>{" "}
-            category
+            <span className="text-primary">{category}</span>{" "}
+            を表示しています
           </h1>
           <Posts posts={posts} authors={authors} />
         </div>

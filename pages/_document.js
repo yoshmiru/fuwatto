@@ -23,6 +23,9 @@ const Document = () => {
           media="(prefers-color-scheme: dark)"
           content="#000"
         />
+
+        {/* font */}
+        <link href="https://fonts.googleapis.com/css?family=M+PLUS+Rounded+1c" rel="stylesheet" />
       </Head>
       <body>
         <Main />

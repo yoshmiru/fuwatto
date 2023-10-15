@@ -13,7 +13,7 @@ const Tag = ({ tag, posts, authors }) => {
       <div className="section">
         <div className="container">
           <h1 className="h2 mb-8 text-center">
-            Showing posts from <span className="text-primary">{tag}</span> tag
+            <span className="text-primary">{tag}</span> を表示しています
           </h1>
           <Posts posts={posts} authors={authors} />
         </div>

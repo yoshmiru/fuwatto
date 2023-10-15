@@ -25,7 +25,7 @@ const Logo = ({ src }) => {
       ) : (
         title
       )}
-      <div class="text-center">NPO法人ダイブス会</div>
+      <div className="text-center">NPO法人ダイブス会</div>
     </Link>
   );
 };
